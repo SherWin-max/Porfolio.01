@@ -29,10 +29,10 @@ const Work = () => {
                                 Porfolio
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="https://shervin.herokuapp.com " target='_blank'>
+                                <a href="https://shervin.herokuapp.com " target='_blank'rel="noreferrer">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-black text-white-700 font-bold text-lg'>Demo</button>
                                 </a>
-                                <a href="https://github.com/SherWin-max/portfolio" target='_blank'>
+                                <a href="https://github.com/SherWin-max/portfolio" target='_blank'rel="noreferrer">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-black text-white-700 font-bold text-lg'>Code</button>
                                 </a>
                             </div>
@@ -49,7 +49,7 @@ const Work = () => {
                                 <a href="/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-black text-white-700 font-bold text-lg'>Demo</button>
                                 </a>
-                                <a href="https://github.com/SherWin-max/Sphere" target='_blank'>
+                                <a href="https://github.com/SherWin-max/Sphere" target='_blank'rel="noreferrer">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-black text-white-700 font-bold text-lg'>Code</button>
                                 </a>
                             </div>
@@ -66,7 +66,7 @@ const Work = () => {
                                 <a href="/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-black text-white-700 font-bold text-lg'>Demo</button>
                                 </a>
-                                <a href="https://github.com/SherWin-max/Slingair" target='_blank'>
+                                <a href="https://github.com/SherWin-max/Slingair" target='_blank'rel="noreferrer">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-black text-white-700 font-bold text-lg'>Code</button>
                                 </a>
                             </div>
@@ -83,7 +83,7 @@ const Work = () => {
                                 <a href="/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-black text-white-700 font-bold text-lg'>Demo</button>
                                 </a>
-                                <a href="https://github.com/SherWin-max/News-platform" target='_blank'>
+                                <a href="https://github.com/SherWin-max/News-platform" target='_blank'rel="noreferrer">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-black text-white-700 font-bold text-lg'>Code</button>
                                 </a>
                             </div>
@@ -101,7 +101,7 @@ const Work = () => {
                                 <a href="/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-black text-white-700 font-bold text-lg'>Demo</button>
                                 </a>
-                                <a href="https://github.com/SherWin-max/I-CAN-HA-Z-CHEEZBURGER-" target='_blank'>
+                                <a href="https://github.com/SherWin-max/I-CAN-HA-Z-CHEEZBURGER-" target='_blank'rel="noreferrer">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-black text-white-700 font-bold text-lg'>Code</button>
                                 </a>
                             </div>
