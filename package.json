@@ -2,6 +2,9 @@
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "18.15.0"
+  },
   "dependencies": {
     "@headlessui/react": "^1.7.14",
     "@heroicons/react": "^2.0.18",
@@ -14,6 +17,7 @@
     "react-scripts": "5.0.1",
     "react-scroll": "^1.8.9",
     "web-vitals": "^2.1.4"
+   
              },
   "scripts": {
     "start": "react-scripts start",
