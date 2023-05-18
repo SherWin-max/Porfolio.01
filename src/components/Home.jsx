@@ -5,7 +5,7 @@ import { Link } from "react-scroll";
 const Home = () => {
     return (
         <div name='home' className='w-full h-screen bg-[#0a192f]'>
-            
+
             {/* Container */}
             <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full'  >
                 <p className='text-white'>Hi, my name is </p>
@@ -16,11 +16,10 @@ const Home = () => {
                     Adept at problem-solving and delivering projects on time and within budget. Passionate about continuous
                     learning and delivering projects to the highest standards of customer excellence.</p>
                 <div>
-                    <button  className='text-white group border-2 px-6 py-3 my-2 items-center flex hover:bg-pink-600 hover:border-pink-600'>View Work <Link to="work" smooth={true} duration={500}>
-                     
+                    <button className='text-white group border-2 px-6 py-3 my-2 items-center flex hover:bg-pink-600 hover:border-pink-600'><Link to="work" smooth={true} duration={500}>View my work
                     </Link>
                         <span className='group-hover:rotate-90 duration-300'>
-                            <HiArrowNarrowRight  className='ml-3' />
+                            <HiArrowNarrowRight className='ml-3' />
                         </span>
                     </button>
                 </div>
