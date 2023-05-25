@@ -63,7 +63,7 @@ const Work = () => {
                                 Sphere
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="/">
+                                <a href="https://main--rococo-dodol-8c51de.netlify.app/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-black text-white-700 font-bold text-lg'>Demo</button>
                                 </a>
                                 <a href="https://github.com/SherWin-max/Sphere" target='_blank' rel="noreferrer">
