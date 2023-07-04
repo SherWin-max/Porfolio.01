@@ -14,13 +14,13 @@ const About = () => {
                 </div>
                 <div className='max-w-[1000px] w-full  grid sm:grid-cols-2 gap-8 px-4'>
                     <div className='sm:text-right text-4xl font-bold '>
-                        <p>Hi. I'm Shervin, Nist to meet you. Please take a look around.</p>
+                        <p>Hi. I'm Shervin,  Nice to meet you. Please allow me to introduce myself.</p>
                     </div>
                     <div>
                         <p>
-                            I am passionate about building excellent software that improves the lives of those around me. 
-                            I specialize in creating software for clients ranging from individuals and small-businesses all the way to large enterprise corporations. 
-                            What would you do if you had a software expert available at your fingertips?
+                            Imagine having direct access to a software expert, ready to assist you with your software needs at any time.
+                            I can provide you with innovative solutions and technical guidance to overcome challenges and achieve your goals.
+                            Together, we can build software that not only meets but exceeds your expectations.
                         </p>
                     </div>
                 </div>
